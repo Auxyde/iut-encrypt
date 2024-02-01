@@ -1,0 +1,22 @@
+{
+  "name": "iut-encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auxyde/iut-encrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auxyde/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/Auxyde/iut-encrypt#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
